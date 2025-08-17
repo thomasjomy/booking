@@ -1,4 +1,4 @@
-package my.prac;
+package my.booking;
 
 
 public class App 
